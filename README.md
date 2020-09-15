@@ -1,1 +1,2 @@
-# my_new_reposit
+my first commit
+my second commit
